@@ -51,4 +51,4 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681790/
 * [Analisando um convenant de vault simples com Alloy](https://delvingbitcoin.org/t/analyzing-simple-vault-covenant-with-alloy/819)
 * [Pesquisa sobre CISA por fjhar](https://cisaresearch.org/)
 * [Transmissão de um transação via código morse](https://x.com/digp2p/status/1774119703750836225?s=46)
-* [BDK PR Review Club Meetings is back (Monthly) (Go to `Events` in BDK's Discord](https://discord.gg/dstn4dQ)
+* [BDK PR Review Club Meetings is back (Monthly) (Go to `Events` in BDK's Discord)](https://discord.gg/dstn4dQ)
