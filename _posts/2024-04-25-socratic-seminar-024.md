@@ -22,8 +22,8 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681790/
 * Sovereign Engineering Cohort 1 - Relato de Viagem + Update do Leonardo Lima
 * [Bolsa de Estudos para Open-Source Bitcoin Devs (1 ano de faculdade paga)](https://chaincode.applytojob.com/apply/F0HErM5FSk/Bitcoin-Scholarship)
 * [Testnet4 incoming?](https://gnusha.org/pi/bitcoindev/CADL_X_eXjbRFROuJU0b336vPVy5Q2RJvhcx64NSNPH-3fDCUfw@mail.gmail.com/)
-* [Pools de Mineração com o mesmo template](https://twitter.com/0xB10C/status/1780611768081121700)
 * [Grant da HRF para pesquisa com Cross Input Signature Aggregation (CISA)](https://twitter.com/gladstein/status/1775590409017966648)
+* [BDK PR Review Club está de volta](https://discord.gg/dstn4dQ)
 
 ### Bitcoin
 
@@ -33,6 +33,14 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681790/
 * [Novo bug no rust-bitcoin encontrado pelo bitcoinfuzz](https://github.com/rust-bitcoin/rust-bitcoin/issues/2681)
 * [1p1c sem alterar nada no p2p do Bitcoin](https://github.com/bitcoin/bitcoin/pull/28970)
 * [Policy: Enforce witness script size limit for tapscript](https://github.com/bitcoin/bitcoin/pull/29769)
+
+## Mining
+
+* [Pools de Mineração com o mesmo template](https://twitter.com/0xB10C/status/1780611768081121700)
+* [Pools de Mineração com o mesmo custodiante](https://twitter.com/mononautical/status/1777686545715089605)
+* [Espectro de MEV no Bitcoin](https://cyber.fund/content/the-spectre-of-mev-on-bitcoin)
+* [MEV no Bitcoin? Mais ou Menos...](https://bluematt.bitcoin.ninja/2024/04/16/stop-calling-it-mev/)
+* [Relatório de Mineração 2024 da CoinShares](https://coinshares.com/research/2024-mining-report)
 
 ### Lightning
 
@@ -51,4 +59,4 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681790/
 * [Analisando um convenant de vault simples com Alloy](https://delvingbitcoin.org/t/analyzing-simple-vault-covenant-with-alloy/819)
 * [Pesquisa sobre CISA por fjhar](https://cisaresearch.org/)
 * [Transmissão de um transação via código morse](https://x.com/digp2p/status/1774119703750836225?s=46)
-* [BDK PR Review Club Meetings is back (Monthly) (Go to `Events` in BDK's Discord)](https://discord.gg/dstn4dQ)
+
