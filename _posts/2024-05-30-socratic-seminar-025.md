@@ -46,6 +46,6 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681815/
 * [LND v0.18.0](https://x.com/lightning/status/1796235510144540835)
 
 ### Ecash
+
 * [Cashu.me 0.1 – Release](https://primal.net/e/note150ywd3rmpw086uwus22kyf45gvqk78r6dl8qm4rv65jem49hglts3um34a)
 * [Introducing Boardwalk Cash - the first dollar-based Cashu wallet built on top of bitcoin and connected to nostr.](https://primal.net/e/note178du87hqdtfyuflpfznq5m3lmgc3sae0ur29qda7v2fyjlzwh0nskfazq7)
-* [Ecash TIDES using Cashu and Stratum v2](https://delvingbitcoin.org/t/ecash-tides-using-cashu-and-stratum-v2/870/1)
