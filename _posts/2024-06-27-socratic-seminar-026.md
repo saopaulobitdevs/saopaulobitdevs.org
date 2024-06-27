@@ -18,15 +18,13 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681829/
 ## Cronograma
 
 ### Aquecimento
-- (Julian Assange to End 14-Year Prosecution with a Guilty Plea in Exchange for Freedom)[https://www.nobsbitcoin.com/julian-assange-to-end-12-year-us-prosecution-with-a-guilty-plea-in-exchange-for-freedom/]
+- [Julian Assange to End 14-Year Prosecution with a Guilty Plea in Exchange for Freedom](https://www.nobsbitcoin.com/julian-assange-to-end-12-year-us-prosecution-with-a-guilty-plea-in-exchange-for-freedom/)
 - [Volt Wallet: A Modern Descriptor-based Financial Freedom Bitcoin Wallet](https://www.nobsbitcoin.com/volt-wallet/)
 - [Nubank Partners with Lightspark for Lightning and UMA](https://www.lightspark.com/news/nubank-announcement)
 - [Windows will start to print the screen](https://support.microsoft.com/pt-br/windows/copilot-no-windows-seus-dados-e-privacidade-3e265e82-fc76-4d0a-afc0-4a0de528b73a)
 
 ### Bitcoin
-- Burak Introduces Ark v2 with Liquidity-efficient Design
-  - https://www.nobsbitcoin.com/burak-introduces-ark-v2-design/
-  - https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b
+- [Burak Introduces Ark v2 with Liquidity-efficient Design](https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b)
 - [Differential Fuzzing of Bitcoin implementations](https://delvingbitcoin.org/t/differential-fuzzing-of-bitcoin-implementations/208/6)
 - [BitcoinFuzz Encontra Novos Bugs](https://delvingbitcoin.org/t/differential-fuzzing-of-bitcoin-implementations/208/5)
 - [Payjoin Release v0.17.0](https://github.com/payjoin/rust-payjoin/releases/tag/payjoin-0.17.0)
@@ -41,11 +39,11 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681829/
 
 ### Lightning
 - Amboss Lightning Decoder
-  - https://primal.net/e/note16qlmfdj0tjadvtq8vuwwxa3zuvvs4l9m77ryrq7ttm2xd9vj0g4sfy7tnj
-  - https://amboss.space/lightning-decoder
+  - [https://primal.net/e/note16qlmfdj0tjadvtq8vuwwxa3zuvvs4l9m77ryrq7ttm2xd9vj0g4sfy7tnj](https://primal.net/e/note16qlmfdj0tjadvtq8vuwwxa3zuvvs4l9m77ryrq7ttm2xd9vj0g4sfy7tnj)
+  - [https://amboss.space/lightning-decoder](https://amboss.space/lightning-decoder)
 - A new BOLT12 website
-  - https://bolt12.org/
-  - https://primal.net/e/note1w6wh63r82chfz7g5rkzpfs9wh6z57qq2xa0llmsqxd606h9h4rcqffv2e4
+  - [https://bolt12.org/](https://bolt12.org/)
+  - [https://primal.net/e/note1w6wh63r82chfz7g5rkzpfs9wh6z57qq2xa0llmsqxd606h9h4rcqffv2e4](https://primal.net/e/note1w6wh63r82chfz7g5rkzpfs9wh6z57qq2xa0llmsqxd606h9h4rcqffv2e4)
 - [DoS: LND Onion Bomb](https://morehouse.github.io/lightning/lnd-onion-bomb/)
 
 ### E-cash
