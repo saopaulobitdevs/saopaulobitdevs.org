@@ -27,6 +27,7 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681829/
 - [Burak Introduces Ark v2 with Liquidity-efficient Design](https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b)
 - [Differential Fuzzing of Bitcoin implementations](https://delvingbitcoin.org/t/differential-fuzzing-of-bitcoin-implementations/208/6)
 - [BitcoinFuzz Encontra Novos Bugs](https://delvingbitcoin.org/t/differential-fuzzing-of-bitcoin-implementations/208/5)
+- [Proof-of-work based signet faucet with `OP_CAT`](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937)
 - [Payjoin Release v0.17.0](https://github.com/payjoin/rust-payjoin/releases/tag/payjoin-0.17.0)
 - [How Silent Payments Work](https://medium.com/@ottosch/how-silent-payments-work-41bea907d6b0)
 - [BitcoinJ ran out of space (12-byte SIGNED integer) to encode chain work data](https://github.com/bitcoinj/bitcoinj/issues/3410)
