@@ -1,7 +1,7 @@
-title: 'São Paulo BitDevs'
+title: 'Porto Alegre BitDevs'
 tagline: 'BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados.'
 
 menu:
 
   - {name: 'Eventos', url: '/events'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/saopaulobitdevs', external: true}
+  - {name: 'Meetup', url: 'https://www.meetup.com/poabitdevs', external: true}
