@@ -8,6 +8,8 @@ sass:
   sass_dir: assets/css
   style: :compressed
 
+baseurl: https://poabitdevs.com
+
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title: "BitDevs em Português"
 description: "BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados."
