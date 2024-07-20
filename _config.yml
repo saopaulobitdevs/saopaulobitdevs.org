@@ -11,7 +11,7 @@ sass:
 baseurl: https://poabitdevs.com
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "BitDevs em Português"
+title: "Porto Alegre BitDevs"
 description: "BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados."
 
 # Leave out some files
