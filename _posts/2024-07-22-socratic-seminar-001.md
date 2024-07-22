@@ -12,7 +12,7 @@ meetup: https://www.meetup.com/porto-alegre-bitdevs/events/302368693/
 
 ## Agradecimentos
 
-- Agradecemos a [Vinteum](https://vinteum.org) por patrocinar as comidas e bebidas e [GoBTC](https://gobtc.com.br) pela divulgação do evento.
+- Agradecemos a [Vinteum](https://vinteum.org) por patrocinar o local, as comidas e bebidas e [GoBTC](https://gobtc.com.br) pela divulgação do evento.
 
 ## Cronograma
 
