@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Seminário Socrático 001"
-meetup: https://www.meetup.com/poabitdevs
+meetup: https://www.meetup.com/porto-alegre-bitdevs/events/302368693/
 ---
 
 ## Avisos
