@@ -21,6 +21,7 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/302289786/
 - [Microsoft/Crowdstrike global outage](https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html)
 - [regreSSHion vulnerability CVE-2024-6387](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 - [Coleção de "Good First Issues" pra quem quer contribuir com FOSS Bitcoin](https://x.com/Bitcoin_Devs/status/1808170965999956280)
+- [Proton Wallet](https://proton.me/wallet)
 
 ### Bitcoin
 - [Super weird Bitcoin transaction](https://stacker.news/items/593226)
