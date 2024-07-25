@@ -22,6 +22,7 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/302289786/
 - [regreSSHion vulnerability CVE-2024-6387](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 - [Coleção de "Good First Issues" pra quem quer contribuir com FOSS Bitcoin](https://x.com/Bitcoin_Devs/status/1808170965999956280)
 - [Proton Wallet](https://proton.me/wallet)
+- [Wasabi vulnerability disclosure](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
 
 ### Bitcoin
 - [Super weird Bitcoin transaction](https://stacker.news/items/593226)
@@ -31,6 +32,7 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/302289786/
 ### Lightning
 - [Estimando a probabilidade de pagamentos na LN serem (in)viáveis](https://delvingbitcoin.org/t/estimating-likelihood-for-lightning-payments-to-be-in-feasible/)
 - [Phoenix wallet has Bolt12 support](https://github.com/ACINQ/phoenix/releases/tag/android-v2.3.1)
+- [Taproot Assets LN Channels](https://x.com/lightning/status/1815768786752164213)
 
 ### Cryptography
 - [FROST RFC](https://x.com/conradoplg/status/1808612054200373757)
