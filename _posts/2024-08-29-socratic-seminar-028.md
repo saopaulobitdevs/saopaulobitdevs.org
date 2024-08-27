@@ -41,4 +41,3 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/302289804/
 ### Criptografia
 - [Engenharia de uma carteira de bitcoin com backdoor](https://www.usenix.org/system/files/woot24-scott.pdf)
 - [Dark Skippy](https://darkskippy.com/) e [mitigações](https://x.com/nunchuk_io/status/1820710359780704557)
-- [BIP draft for the FROST threshold signing protocol](https://groups.google.com/g/bitcoindev/c/PeMp2HQl-H4)
