@@ -35,11 +35,13 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/302289804/
 - [Bitcoin Core's conservative next block fee recommendations](https://x.com/mononautical/status/1826679495568564677) [2](https://x.com/mononautical/status/1826604180251050388)
 - [BitVM2](https://bitvm.org/bitvm_bridge.pdf)
 - [New time warp vulnerability in testnet4](https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack/1062) [2](https://bitcoinops.org/en/newsletters/2024/08/16/)
+- [Bitcoin Mining Development Mailing List](https://groups.google.com/g/bitcoinminingdev/about)
 
 ### Lightning
 
 - [Bolt11 em C# / .NET](https://x.com/ngoline/status/1828193300546724236)
 - [Zeus v0.9.0](https://github.com/ZeusLN/zeus/releases/tag/v0.9.0)
+- [ZaPin](https://github.com/MiguelMedeiros/zapin.me)
 
 ### Criptografia
 
