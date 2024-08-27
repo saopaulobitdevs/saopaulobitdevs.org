@@ -31,6 +31,7 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/302289804/
 - [Floresta v0.6.0](https://medium.com/vinteum-org/floresta-update-simplifying-bitcoin-node-integration-for-wallets-6886ea7c975c)
 - [Mempool v3.0.0](https://x.com/mempool/status/1828057401968533629)
 - [BDK 1.0.0-beta.1](https://github.com/bitcoindevkit/bdk/releases/tag/v1.0.0-beta.1)
+- [Bitcoin 28.0 rc1](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/28.0-Release-Notes-Draft)
 - [Existe incentivo econômico em usar P2WSH ao invés de P2TR?](https://bitcoin.stackexchange.com/questions/123500/is-there-an-economic-incentive-to-use-p2wsh-over-p2tr)
 - [Bitcoin Core's conservative next block fee recommendations](https://x.com/mononautical/status/1826679495568564677) [2](https://x.com/mononautical/status/1826604180251050388)
 - [BitVM2](https://bitvm.org/bitvm_bridge.pdf)
