@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Seminário Socrático 29"
+title: "Seminário Socrático 029"
 meetup: https://www.meetup.com/clubebitcoinsp/events/302289821/
 ---
 
