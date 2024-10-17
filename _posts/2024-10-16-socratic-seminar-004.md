@@ -30,7 +30,6 @@ meetup: https://www.meetup.com/pt-BR/porto-alegre-bitdevs/events/304034594/
 
 * [Mutation-core: A mutation testing tool for Bitcoin Core](https://delvingbitcoin.org/t/mutation-core-a-mutation-testing-tool-for-bitcoin-core/1119)
 * [Bitcoin 51% Attack: How It Works, How Much Bitcoin 51 Attack Costs](https://u.today/guides/blockchain/bitcoin-51-attack-how-it-works-how-much-bitcoin-51-attack-costs)
-* [Mutation-core: A mutation testing tool for Bitcoin Core](https://delvingbitcoin.org/t/mutation-core-a-mutation-testing-tool-for-bitcoin-core/1119)
 * [Did Segwit (BIP141) eliminate all txid malleability issues listed in BIP62?](https://bitcoin.stackexchange.com/a/124074)
 * [How can OP_CAT be used to implement additional covenants?](https://bitcoin.stackexchange.com/a/123829)
 * [Disclosure of memory DoS due to headers spam](https://bitcoincore.org/en/2024/09/18/disclose-headers-oom/)
