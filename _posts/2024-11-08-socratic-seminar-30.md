@@ -56,10 +56,14 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/303963950
 
 ### R&D
 
-* [Shielded CSV](https://mailing-list.bitcoindevs.xyz/bitcoindev/b0afc5f2-4dcc-469d-b952-03eeac6e7d1b@gmail.com/)
-* [Strata: work-in-progress EVM-compatible validity rollup on bitcoin](https://x.com/Strata_BTC/status/1841140951315857437)
-* [Bitcoin PIPEs: Introducting Covenants without Soft Forks](https://www.allocin.it/uploads/placeholder-bitcoin.pdf)
 * [P2QRH (Pay To Quantum Resistant Hash) BIP draft](https://github.com/bitcoin/bips/pull/1670)
+* [Shielded CSV](https://mailing-list.bitcoindevs.xyz/bitcoindev/b0afc5f2-4dcc-469d-b952-03eeac6e7d1b@gmail.com/)
+* [Bitcoin PIPEs: Introducting Covenants without Soft Forks](https://www.allocin.it/uploads/placeholder-bitcoin.pdf)
 * [Unlocking Mass-Market Self-Custody: Secure and Private Smartphone Bitcoin Wallets](https://bitkey.build/unlocking-mass-market-self-custody-3/)
     - [assets.ctfassets.net](https://assets.ctfassets.net/mtmp6hzjjvnd/6Qjcs8zgMiyffC0Uk8cx4V/6d1553946b50b132209518be8ff3026f/Unlocking_Mass_Market_Self_Custody_-10-24-.pdf?ref=bitkey.build)
 * [Relatório sobre ecash da HRF]([https://mailchi.mp/hrf.org/hrfs-weekly-financial-freedom-report-9100630?e=[UNIQID]](https://mailchi.mp/hrf.org/hrfs-weekly-financial-freedom-report-9100630?e=%5BUNIQID%5D))
+
+### Layer two
+
+* [Alpen Labs launches vanilla bitcoin signet with a BitVM-based bridge and Zero-knowledge commitments on-chain](https://www.stratabtc.org)
+    * [Strata: work-in-progress EVM-compatible validity rollup on bitcoin](https://x.com/Strata_BTC/status/1841140951315857437)
