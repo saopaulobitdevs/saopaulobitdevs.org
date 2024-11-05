@@ -25,7 +25,6 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/303963950
 ## Bitcoin
 
 * [Disclosure of CVE-2024-35202](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
-* [Disclosure of CVE-2024-35202](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
 * [CVE-2024-38365 public disclosure (btcd `FindAndDelete` bug)](https://delvingbitcoin.org/t/cve-2024-38365-public-disclosure-btcd-findanddelete-bug/1184?u=antoinep)
 * [Disclosure of DoS due to inv-to-send sets growing too large](https://bitcoincore.org/en/2024/10/08/disclose-large-inv-to-send)
 * [Disclosure of hindered block propagation due to mutated blocks](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation)
