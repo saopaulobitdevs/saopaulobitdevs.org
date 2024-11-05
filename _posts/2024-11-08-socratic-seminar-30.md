@@ -46,7 +46,8 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/303963950
 
 ### Cryptography
 
-* [MuSig2 merged into secp256k1 repo](https://github.com/bitcoin-core/secp256k1/pull/1479)
+* [secp256k1 v0.6.0 released with musig module](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.6.0)
+    * [PR](https://github.com/bitcoin-core/secp256k1/pull/1479)
 
 ### Mining
 
