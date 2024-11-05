@@ -31,7 +31,7 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/303963950
 * [Disclosure of hindered block propagation due to mutated blocks](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation)
 * [Guide for Wallets Employing Bitcoin Core 28.0 Policies](https://bitcoinops.org/en/bitcoin-core-28-wallet-integration-guide/)
 * [Deprecated RPC on Bitcoin Core v28.0 prevents LND from starting](https://x.com/roasbeef/status/1842956355516223824)
-* [Bitcoin Core v28.0 released](https://github.com/bitcoin/bitcoin/releases/tag/v28.)
+* [Bitcoin Core v28.0 released](https://github.com/bitcoin/bitcoin/releases/tag/v28.0)
 
 ### Bitcoin Q&A
 
