@@ -61,7 +61,7 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/303963950
 * [Bitcoin PIPEs: Introducting Covenants without Soft Forks](https://www.allocin.it/uploads/placeholder-bitcoin.pdf)
 * [Unlocking Mass-Market Self-Custody: Secure and Private Smartphone Bitcoin Wallets](https://bitkey.build/unlocking-mass-market-self-custody-3/)
     - [assets.ctfassets.net](https://assets.ctfassets.net/mtmp6hzjjvnd/6Qjcs8zgMiyffC0Uk8cx4V/6d1553946b50b132209518be8ff3026f/Unlocking_Mass_Market_Self_Custody_-10-24-.pdf?ref=bitkey.build)
-* [Relatório sobre ecash da HRF]([https://mailchi.mp/hrf.org/hrfs-weekly-financial-freedom-report-9100630?e=[UNIQID]](https://mailchi.mp/hrf.org/hrfs-weekly-financial-freedom-report-9100630?e=%5BUNIQID%5D))
+* [Report about ecash from HRF](https://mailchi.mp/hrf.org/hrfs-weekly-financial-freedom-report-9100630?e=[UNIQID])
 
 ### Layer two
 
