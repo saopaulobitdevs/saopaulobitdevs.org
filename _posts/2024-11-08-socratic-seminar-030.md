@@ -23,7 +23,6 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/303963950
 * [Send Bitcoin to anyone that has an email address. (It uses MPC)](https://emailbtc.net/)
 * [Alpen Labs launches vanilla bitcoin signet with a BitVM-based bridge and Zero-knowledge commitments on-chain](https://www.stratabtc.org)
     * [Strata: work-in-progress EVM-compatible validity rollup on bitcoin](https://x.com/Strata_BTC/status/1841140951315857437)
-* [Guide for Wallets Employing Bitcoin Core 28.0 Policies](https://bitcoinops.org/en/bitcoin-core-28-wallet-integration-guide/)
 
 ### Bitcoin Q&A
 
@@ -34,11 +33,12 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/303963950
 ## Bitcoin
 
 * [Bitcoin Core v28.0 released](https://github.com/bitcoin/bitcoin/releases/tag/v28.0)
-* [Disclosure of CVE-2024-35202](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
-* [CVE-2024-38365 public disclosure (btcd `FindAndDelete` bug)](https://delvingbitcoin.org/t/cve-2024-38365-public-disclosure-btcd-findanddelete-bug/1184?u=antoinep)
-* [Disclosure of DoS due to inv-to-send sets growing too large](https://bitcoincore.org/en/2024/10/08/disclose-large-inv-to-send)
-* [Disclosure of hindered block propagation due to mutated blocks](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation)
-* [Deprecated RPC on Bitcoin Core v28.0 prevents LND from starting](https://x.com/roasbeef/status/1842956355516223824)
+* [Guide for Wallets Employing Bitcoin Core 28.0 Policies](https://bitcoinops.org/en/bitcoin-core-28-wallet-integration-guide/)
+* Disclosed issues with Bitcoin Core
+    - [CVE-2024-35202: blocktxn crash](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
+    - [CVE-2024-38365: btcd FindAndDelete bug](https://delvingbitcoin.org/t/cve-2024-38365-public-disclosure-btcd-findanddelete-bug/1184?u=antoinep)
+    - [DoS due to inv-to-send sets growing too large](https://bitcoincore.org/en/2024/10/08/disclose-large-inv-to-send)
+    - [Hindered block propagation due to mutated blocks](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation)
 
 ### Lightning
 
