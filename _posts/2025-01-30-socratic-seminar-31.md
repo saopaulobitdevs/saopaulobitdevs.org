@@ -51,10 +51,10 @@ meetup: https://www.meetup.com/clube-bitcoin-floripa/events/304755077/
 * [Basic Bitcoin Lisp Language (bll)](https://github.com/ajtowns/bllsh)
 * [Bitcoin Output Script Descriptor (BOSD) to address issues of expressiveness, succinctness, and correctness when specifying Bitcoin transaction output types and standardness rules, particularly for L2 withdrawals.](https://github.com/alpenlabs/bitcoin-bosd)
 
-### Crypt(graphy)
+### Crypto(graphy)
 
 * [@rusty_twit's Great Script Restoration (GSR) offers a potential path toward post-quantum secure Bitcoin](https://x.com/n1ckler/status/1854552545084977320)
-* [ZCash FROST repo now supports secp256k1 curve on top of taproot (BIP 340 and 341 compatible). PR was merged today:](https://github.com/ZcashFoundation/frost/pull/730)
+* [ZCash FROST repo now supports secp256k1 curve on top of taproot (BIP 340 and 341 compatible)](https://github.com/ZcashFoundation/frost/pull/730)
 * [Safegcd’s Implementation Formally Verified](https://bitcoinmagazine.com/technical/safegcds-implementation-formally-verified)
 
 ### 2nd Layers
