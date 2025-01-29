@@ -26,7 +26,6 @@ meetup: https://www.meetup.com/pt-BR/clubebitcoinsp/events/305867752/
 * [Tabconf 2024](https://www.youtube.com/@tabconf/videos) and [OP_NEXT](https://blockspace.media/opnext-bitcoin-scaling/) Recordings
 * [CTB6 codebase](https://github.com/CasaVinteUm/ctb6)
 * [jamesob - BITCOIN CORE'S LOSS OF FOCUS](https://x.com/jamesob/status/1860340932706730261)
-* [Deanonymization attacks against centralized coinjoin](https://bitcoinmagazine.com/technical/wabisabi-deanonymization-vulnerability-disclosed)
 * [Fifteen OFAC-sanctioned transactions missing from blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
 * [Burak did it again, without breaking anything this time](https://x.com/brqgoo/status/1881768183314657751)
 
