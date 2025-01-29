@@ -56,13 +56,6 @@ meetup: https://www.meetup.com/pt-BR/clubebitcoinsp/events/305867752/
 * [Disclosure: irrevocable fees—stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314)
 * [Bitcoin Virtual Channels: Bringing Instant Settlement To Ark](https://arkdev.info/blog/bitcoin-virtual-channels/)
 
-### Misc
-
-* ["Non-Custodial" Ecash: A Trust-Minimized Payment System](https://gist.github.com/lukechilds/307341239beac72c9d8cfe3198f9bfff)
-* [Nubit Completes BitVM IDE: The First Zero-Knowledge Proof Development Tool on Bitcoin](https://www.bitget.com/news/detail/12560604376498)
-* [Introducing Goldinals: The Unified Protocol for Bitcoin Assets](https://xcancel.com/nubit_org/status/1877701951640793523?s=12&t=v81u3iC5vqay0SQUlK7o5A)
-* [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platform](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
-
 ### Releases
 
 * [BDK 1.0.0 no more betas!](https://github.com/bitcoindevkit/bdk/releases/tag/wallet-1.0.0)
