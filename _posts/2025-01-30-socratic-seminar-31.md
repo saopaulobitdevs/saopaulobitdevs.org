@@ -34,7 +34,7 @@ meetup: https://www.meetup.com/pt-BR/clubebitcoinsp/events/305867752/
 * [Covenants support table](https://en.bitcoin.it/wiki/Covenants_support)
 * [CTV, APO, CAT activity on signet](https://delvingbitcoin.org/t/ctv-apo-cat-activity-on-signet/1257)
 * [P2A + 1p1c package relay + CTV na signet](https://x.com/1440000bytes/status/1868120931366817932)
- - [Code](https://github.com/stutxo/simple_ctv)
+    - [Code](https://github.com/stutxo/simple_ctv)
 
 ### Bitcoin
 
