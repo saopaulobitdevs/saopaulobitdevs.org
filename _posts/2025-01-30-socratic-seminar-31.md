@@ -25,13 +25,13 @@ meetup: https://www.meetup.com/pt-BR/clubebitcoinsp/events/305867752/
      - [Court Order](https://storage.courtlistener.com/recap/gov.uscourts.txwd.1211705/gov.uscourts.txwd.1211705.99.0.pdf)
 * [Tabconf 2024](https://www.youtube.com/@tabconf/videos) and [OP_NEXT](https://blockspace.media/opnext-bitcoin-scaling/) Recordings
 * [CTB6 codebase](https://github.com/CasaVinteUm/ctb6)
-* [jamesob - BITCOIN CORE'S LOSS OF FOCUS](https://x.com/jamesob/status/1860340932706730261)
 * [Fifteen OFAC-sanctioned transactions missing from blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
 * [Burak did it again, without breaking anything this time](https://x.com/brqgoo/status/1881768183314657751)
 
 ### Covenants
 
-* [Covenants support table:](https://en.bitcoin.it/wiki/Covenants_support)
+* [jamesob - BITCOIN CORE'S LOSS OF FOCUS](https://x.com/jamesob/status/1860340932706730261)
+* [Covenants support table](https://en.bitcoin.it/wiki/Covenants_support)
 * [CTV, APO, CAT activity on signet](https://delvingbitcoin.org/t/ctv-apo-cat-activity-on-signet/1257)
 * [P2A + 1p1c package relay + CTV na signet](https://x.com/1440000bytes/status/1868120931366817932)
  - [Code](https://github.com/stutxo/simple_ctv)
