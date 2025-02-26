@@ -21,6 +21,7 @@ meetup: https://www.meetup.com/pt-BR/clubebitcoinsp/events/306401027/
 
 * BTC++ Floripa
 * BDL feedback session
+* [More details on ByBit hack](https://x.com/hosseeb/status/1894769440669204780)
 * [A descentralização é maior do que qualquer entidade](https://www.mining.build/blog/decentralization-is-bigger-than-any-one-entity/)
 * [BitKey Inheritance Feature](https://bitkey.build/inheritance-is-live-heres-how-it-works/)
 
