@@ -22,7 +22,6 @@ meetup: https://www.meetup.com/pt-BR/clubebitcoinsp/events/306401027/
 * BTC++ Floripa
 * BDL feedback session
 * [More details on ByBit hack](https://x.com/hosseeb/status/1894769440669204780)
-* [A descentralização é maior do que qualquer entidade](https://www.mining.build/blog/decentralization-is-bigger-than-any-one-entity/)
 * [BitKey Inheritance Feature](https://bitkey.build/inheritance-is-live-heres-how-it-works/)
 
 ### Covenants
@@ -34,7 +33,6 @@ meetup: https://www.meetup.com/pt-BR/clubebitcoinsp/events/306401027/
 * [Mempool blocksize report](https://research.mempool.space/block-size-report/)
 * [BOSD](https://github.com/alpenlabs/bitcoin-bosd)
 * [Bitcoin Fork Guide](https://ajtowns.github.io/bfg/)
-* [Octojoin PoC](https://github.com/octojoin/poc)
 * [Particionamento de mempool e identificação de nós de mineração](https://crypt-iq.github.io/coinscope-post.html)
 * [Stats on orphanage overflows](https://delvingbitcoin.org/t/stats-on-orphanage-overflows/1421)
 
@@ -48,7 +46,6 @@ meetup: https://www.meetup.com/pt-BR/clubebitcoinsp/events/306401027/
 * [Zero fee commitments using v3 transactions](https://delvingbitcoin.org/t/zero-fee-commitments-for-mobile-wallets/1453)
 * [ZK gossip for Lightning Channel Announcements](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements/1407)
 * [Highly Available Lightning Channels Revisited – ROUTE OR OUT](https://delvingbitcoin.org/t/highly-available-lightning-channels-revisited-route-or-out/1438/1)
-* [LDK Pathfinding leved up](https://x.com/lightningdevkit/status/1889012940973449572)
 
 ### Releases
 
