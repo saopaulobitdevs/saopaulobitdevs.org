@@ -1,24 +1,70 @@
 ---
 ---
 
+@charset "UTF-8";
+
 // Typography
 $body-font: 'Source Code Pro', monospace;
 $base-font-size: 16px;
 
-// Colors
-$primary-color: #FF9900;
-$background-color: #FFF;
-$font-color: #333;
+// Light theme colors
+$light-primary-color: #FF9900;
+$light-background-color: #FFF;
+$light-font-color: #333;
+
+// Dark theme colors
+$dark-primary-color: #FFA31A;
+$dark-background-color: #121212;
+$dark-font-color: #FFFFFF;
+
+// Default to light theme
+$primary-color: $light-primary-color;
+$background-color: $light-background-color;
+$font-color: $light-font-color;
 
 // Screen size for responsiveness
 $small-screen: 400px;
 $mid-screen: 768px;
 $large-screen: 1024px;
 
-@import './reset';
-@import './global';
-@import './header';
-@import './footer';
-@import './home';
-@import './post';
-@import './blog';
+@import 'reset';
+@import 'global';
+@import 'header';
+@import 'footer';
+@import 'home';
+@import 'post';
+@import 'blog';
+@import 'theme';
+
+// Theme styles
+:root {
+  --primary-color: #{$light-primary-color};
+  --background-color: #{$light-background-color};
+  --font-color: #{$light-font-color};
+}
+
+[data-theme="dark"] {
+  --primary-color: #{$dark-primary-color};
+  --background-color: #{$dark-background-color};
+  --font-color: #{$dark-font-color};
+
+  pre, code {
+    background-color: #1e1e1e;
+    border-color: #2a2a2a;
+  }
+
+  blockquote {
+    border-left-color: var(--primary-color);
+    background-color: rgba(255, 255, 255, 0.03);
+  }
+
+  hr {
+    border-color: #2a2a2a;
+  }
+
+  table {
+    th, td {
+      border-color: #2a2a2a;
+    }
+  }
+}

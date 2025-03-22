@@ -31,12 +31,12 @@
     }
 
     a {
-      color: #333;
+      color: var(--font-color);
       opacity: 0.4;
       margin-left: 1.5rem;
 
       &:hover {
-        color: $primary-color;
+        color: var(--primary-color);
         opacity: 1;
       }
     }

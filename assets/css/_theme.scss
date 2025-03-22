@@ -1,0 +1,51 @@
+// Theme toggle button
+.theme-toggle {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+  margin-left: 1.75rem;
+  margin-top: 5px;
+  color: var(--font-color);
+  opacity: 0.4;
+  position: relative;
+  
+  &:hover {
+    opacity: 1;
+    color: var(--primary-color);
+  }
+
+  .sun-icon,
+  .moon-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+}
+
+[data-theme="dark"] {
+  .sun-icon {
+    opacity: 0;
+    transform: rotate(90deg);
+  }
+  
+  .moon-icon {
+    opacity: 1;
+    transform: rotate(0);
+  }
+}
+
+[data-theme="light"] {
+  .sun-icon {
+    opacity: 1;
+    transform: rotate(0);
+  }
+  
+  .moon-icon {
+    opacity: 0;
+    transform: rotate(-90deg);
+  }
+} 
