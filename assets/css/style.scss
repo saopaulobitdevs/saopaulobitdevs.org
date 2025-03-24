@@ -36,6 +36,20 @@ $large-screen: 1024px;
 @import 'blog';
 @import 'theme';
 
+// Logo styles
+.Header-logo {
+  &-image {
+    height: 40px;
+    width: auto;
+    fill: $light-font-color;
+    stroke: $light-font-color;
+    
+    @media (max-width: $small-screen) {
+      height: 30px;
+    }
+  }
+}
+
 // Theme styles
 :root {
   --primary-color: #{$light-primary-color};
@@ -47,6 +61,11 @@ $large-screen: 1024px;
   --primary-color: #{$dark-primary-color};
   --background-color: #{$dark-background-color};
   --font-color: #{$dark-font-color};
+
+  .Header-logo-image {
+    fill: $dark-font-color;
+    stroke: $dark-font-color;
+  }
 
   pre, code {
     background-color: #1e1e1e;

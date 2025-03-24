@@ -1,5 +1,6 @@
 .Header {
   margin-bottom: 0.75rem;
+  position: relative;
 
   &-border {
     opacity: 0.4;
@@ -12,28 +13,84 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 1rem 0;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+
+    @media (min-width: 768px) {
+      max-width: 100%;
+      flex-direction: row;
+      padding: 0.5rem 0;
+    }
   }
 
   &-logo {
-    font-size: 2.2rem;
+    font-size: 1.6rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-bottom: 1rem;
 
-    @media (max-width: $small-screen) {
-      font-size: 1.8rem;
+    @media (min-width: 768px) {
+      font-size: 2.2rem;
+      margin-bottom: 0;
+    }
+
+    a {
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+    }
+  }
+
+  &-logo-image {
+    width: 30px;
+    height: auto;
+    position: absolute;
+    top: -5px;
+
+    @media (min-width: 768px) {
+      top: -2px
+    }
+  }
+
+  &-logo-text {
+    margin-left: 4rem;
+    font-size: 2.1rem;
+    @media (min-width: 768px) {
+      margin-left: 3.25rem;
     }
   }
 
   &-nav {
     display: flex;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 0.5rem;
 
-    @media (max-width: $small-screen) {
-      font-size: 1.1rem;
+    @media (min-width: 768px) {
+      font-size: 1.3rem;
+      width: auto;
+      justify-content: flex-start;
+      margin-top: 0;
     }
 
     a {
       color: var(--font-color);
       opacity: 0.4;
-      margin-left: 1.5rem;
+      margin-right: 1rem;
+
+      @media (min-width: 768px) {
+        margin-right: 0;
+        margin-left: 1.5rem;
+      }
+
+      &:last-child {
+        margin-right: 0;
+      }
 
       &:hover {
         color: var(--primary-color);

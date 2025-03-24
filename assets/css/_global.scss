@@ -10,6 +10,7 @@ html, body {
   line-height: 1.5;
   background-color: var(--background-color);
   color: var(--font-color);
+  min-width: 342px;
 
   @media (max-width: $large-screen) {
     font-size: 14px;
