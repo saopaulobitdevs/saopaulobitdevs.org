@@ -1,7 +1,10 @@
 <header class="Header">
   <div class="Header-inner">
     <div class="Header-logo">
-      <a href="{{ '/' | relative_url }}">{{ site.data.settings.title }}</a>
+      <a href="{{ '/' | relative_url }}" aria-label="{{ site.data.settings.title }}">
+        <img src="{{ '/public/images/spbitdevs-logo.svg' | relative_url }}" alt="Logo {{ site.data.settings.title }}" class="Header-logo-image">
+        <span class="Header-logo-text">{{ site.data.settings.title }}</span>
+      </a>
     </div>
     <nav class="Header-nav">
       {% for item in site.data.settings.menu %}
