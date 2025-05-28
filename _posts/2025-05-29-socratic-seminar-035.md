@@ -19,8 +19,6 @@ meetup: https://www.meetup.com/clubebitcoinsp
 
 ### Warmup
 
-- [Stake n' Shake now accepts LN payments](https://x.com/BitcoinMagazine/status/1923225678603784674)
-- [Satoshis are proposed to oficially be satoshis](https://github.com/bitcoin/bips/pull/1841)
 - [First mainnet use of the Taproot Annex](https://x.com/mononautical/status/1921180666831499737)
     - [A second JPEG has hit the annex](https://x.com/mononautical/status/1921557253368295733)
 
@@ -42,13 +40,12 @@ meetup: https://www.meetup.com/clubebitcoinsp
 - [Withdrawing OP_VAULT (BIP-345)](https://delvingbitcoin.org/t/withdrawing-op-vault-bip-345/1670)
 - [musig2 has finally been merged in to rust bitcoin (musig2 my ears)](https://github.com/rust-bitcoin/rust-secp256k1/pull/716)
 - [Avoiding xpub+derivation reuse across wallets, in a UX-friendly manner](https://delvingbitcoin.org/t/avoiding-xpub-derivation-reuse-across-wallets-in-a-ux-friendly-manner/1644)
+- [Bitcoin and Quantum Computing: Current Status and Future Directions](https://chaincode.com/bitcoin-post-quantum.pdf)
 
 ### Cool transaction sheenanigans
 
-- [CoinMaze: Privacy-Focused CoinJoin Protocol for Bitcoin](https://eprint.iacr.org/2025/747)
 - [Weighted multisig](https://x.com/mononautical/status/1921012232747421892?s=46)
 - [Peach group hug](https://x.com/peachbitcoin/status/1921147023262146785?s=46)
-- [Cake Wallet, now with payjoin v2](https://x.com/cakewallet/status/1924594310202155069)
 
 ### L2
 
