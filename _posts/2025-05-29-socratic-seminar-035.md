@@ -53,3 +53,4 @@ meetup: https://www.meetup.com/clubebitcoinsp
 - [Liquidity requirements for Lightning payments: Ark servers and LSPs compared](https://blog.second.tech/ark-liquidity-research-01/)
 - [Tangerine Upgrade: BitVM Activation on Clementine & Core Protocol Upgrades](https://www.blog.citrea.xyz/tangerine-upgrade-bitvm-activation-on-clementine/)
     - [Clementine Whitepaper](https://citrea.xyz/clementine_whitepaper.pdf)
+- [Arkade, a Bitcoin-native virtual execution layer](https://xcancel.com/tierotiero/status/1927724597266571282)
