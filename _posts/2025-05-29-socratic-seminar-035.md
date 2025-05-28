@@ -19,13 +19,13 @@ meetup: https://www.meetup.com/clubebitcoinsp
 
 ### Warmup
 
-- [First mainnet use of the Taproot Annex](https://x.com/mononautical/status/1921180666831499737)
-    - [A second JPEG has hit the annex](https://x.com/mononautical/status/1921557253368295733)
+- [First mainnet use of the Taproot Annex](https://xcancel.com/mononautical/status/1921180666831499737)
+    - [A second JPEG has hit the annex](https://xcancel.com/mononautical/status/1921557253368295733)
 
 ### Drama
 
 - [Remove arbitrary limits on OP_Return (datacarrier) outputs](https://github.com/bitcoin/bitcoin/pull/32359)
-    - [Mempool space UTXO set report](https://x.com/orangesurfbtc/status/1924604141977956745?s=46)
+    - [Mempool space UTXO set report](https://xcancel.com/orangesurfbtc/status/1924604141977956745?s=46)
     - [Ava reviews the code](https://www.twitch.tv/videos/2451181919)
     - [Antonie Poisont post on the topic](https://antoinep.com/posts/relay_policy_drama/)
     - [Why would anyone use OP_RETURN over inscriptions aside from fees](https://bitcoin.stackexchange.com/questions/126208/why-would-anyone-use-op-return-over-inscriptions-aside-from-fees)
@@ -44,8 +44,8 @@ meetup: https://www.meetup.com/clubebitcoinsp
 
 ### Cool transaction sheenanigans
 
-- [Weighted multisig](https://x.com/mononautical/status/1921012232747421892?s=46)
-- [Peach group hug](https://x.com/peachbitcoin/status/1921147023262146785?s=46)
+- [Weighted multisig](https://xcancel.com/mononautical/status/1921012232747421892?s=46)
+- [Peach group hug](https://xcancel.com/peachbitcoin/status/1921147023262146785?s=46)
 
 ### L2
 
