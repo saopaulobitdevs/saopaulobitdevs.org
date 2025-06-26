@@ -29,10 +29,13 @@ meetup: https://www.meetup.com/clubebitcoinsp
 - Tx passando com 0.1 sat/vB
     - [FREE SAMOURAI](https://xcancel.com/ottosch_/status/1935712233230639176)
     - [Degent](https://xcancel.com/mononautical/status/1936223502446522613)
+- [Witnessless Sync for Pruned Nodes](https://delvingbitcoin.org/t/witnessless-sync-for-pruned-nodes/1742)
 - [CTV + CSFS](https://ctv-csfs.com)
+- [The Scroll #4: Intersection Attacks on CoinJoin Anonymity](https://spiralbtc.substack.com/p/the-scroll-4-intersection-attacks)
 
 ### Mining
 
+- [Non-confiscatory transaction weight limit](https://delvingbitcoin.org/t/non-confiscatory-transaction-weight-limit/1732)
 - [Stratum v2 STARK proof demo](https://bitcoinops.org/en/newsletters/2025/06/20/#stratum-v2-stark-proof-demo)
 
 ### L2
