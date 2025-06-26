@@ -37,6 +37,7 @@ meetup: https://www.meetup.com/clubebitcoinsp
 
 - [Non-confiscatory transaction weight limit](https://delvingbitcoin.org/t/non-confiscatory-transaction-weight-limit/1732)
 - [Stratum v2 STARK proof demo](https://bitcoinops.org/en/newsletters/2025/06/20/#stratum-v2-stark-proof-demo)
+- [How Stratum V2 Increases Mining Profitability](https://x.com/StratumV2/status/1933191370123993478)
 
 ### L2
 
