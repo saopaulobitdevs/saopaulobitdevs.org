@@ -25,6 +25,7 @@ meetup: https://www.meetup.com/clubebitcoinsp
 * [White Noise Chat](https://xcancel.com/whitenoisechat/status/1943039669236531471)
 * [Quantum Bitcoin Summit](https://www.youtube.com/watch?v=GeUdu4hrBPI)
 * [Is recycling coins a thing?](https://groups.google.com/d/msgid/bitcoindev/a186c724-eef7-4964-9aba-85ae9cce2249n%40googlegroups.com?utm_medium=email&utm_source=footer)
+* [UnB's Bitcoin Monitoring Lab](https://xcancel.com/edil_medeiros/status/1950268914052505756)
 
 ### Bitcoin
 
