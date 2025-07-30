@@ -19,7 +19,7 @@ meetup: https://www.meetup.com/clubebitcoinsp
 
 ### Warmup
 
-* [Bitcoiner offers its signed snapshots and pre-synced utxo set trough torrent](https://bitcoin-snapshots.jaonoctus.dev/)
+* [Bitcoiner offers its signed snapshots and pre-synced utxo set through torrent](https://bitcoin-snapshots.jaonoctus.dev/)
 * [💥🔫 Glock: A new standard for verification on Bitcoin](https://xcancel.com/alpenlabs/status/1945112781168238789?s=46&t=_bcnKDRvtUHHcJ1wRUxBpw)
 * [bitchat: A secure, decentralized, peer-to-peer messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 * [White Noise Chat](https://xcancel.com/whitenoisechat/status/1943039669236531471)
