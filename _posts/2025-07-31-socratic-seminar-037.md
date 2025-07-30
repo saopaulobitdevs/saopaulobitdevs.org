@@ -23,7 +23,7 @@ meetup: https://www.meetup.com/clubebitcoinsp
 * [💥🔫 Glock: A new standard for verification on Bitcoin](https://xcancel.com/alpenlabs/status/1945112781168238789?s=46&t=_bcnKDRvtUHHcJ1wRUxBpw)
 * [bitchat: A secure, decentralized, peer-to-peer messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 * [White Noise Chat](https://xcancel.com/whitenoisechat/status/1943039669236531471)
-* [Quantum Bitcon Summit](https://www.youtube.com/watch?v=GeUdu4hrBPI)
+* [Quantum Bitcoin Summit](https://www.youtube.com/watch?v=GeUdu4hrBPI)
 * [Is recycling coins a thing?](https://groups.google.com/d/msgid/bitcoindev/a186c724-eef7-4964-9aba-85ae9cce2249n%40googlegroups.com?utm_medium=email&utm_source=footer)
 
 ### Bitcoin
