@@ -31,6 +31,9 @@ meetup: https://www.meetup.com/clubebitcoinsp
 
 * [Running bitcoin: from core to code, a comparison of clients](https://s3.us-east-1.amazonaws.com/1a1z.com/files/1A1z+-+Running+Bitcoin+-+Client+Comparison.pdf)
 * [Floresta v0.8.0](https://github.com/vinteumorg/Floresta/releases/tag/v0.8.0)
+
+* [Utreexo Bip is out](https://groups.google.com/d/msgid/bitcoindev/3452b63c-ff2b-4dd9-90ee-83fd9cedcf4an%40googlegroups.com?utm_medium=email&utm_source=footer)
+
 * [Changes to BIP360 - Changes to Pay-To-Quantum-Resistent-Hash](https://delvingbitcoin.org/t/changes-to-bip-360-pay-to-quantum-resistant-hash-p2qrh/1811)
 * [Augur: Block’s Open Source Bitcoin Fee Estimation Library](https://delvingbitcoin.org/t/augur-block-s-open-source-bitcoin-fee-estimation-library/1848)
 * [Chain Code Delegation: Private Access Control for Bitcoin Keys](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys/1837)
