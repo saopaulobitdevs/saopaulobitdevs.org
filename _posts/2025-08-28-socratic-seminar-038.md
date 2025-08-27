@@ -22,7 +22,7 @@ meetup: https://www.meetup.com/clubebitcoinsp
 * [New Bitcoin Research Network](https://www.dci.mit.edu/posts/new-research-network)
 * [Novo curso do Edil na UnB](https://youtube.com/playlist?list=PLfdR3_dt2rbcthvhgwea-6Cy7kM_Nh2pL&si=wI1ZTA023hKTeohi)
 * [Bitcoin++ Insider](https://insider.btcpp.dev/)
-* [Rust Utreexo resources](https://x.com/dimahledba/status/1951213485104181669)
+* [Rust Utreexo resources](https://xcancel.com/dimahledba/status/1951213485104181669)
 * [Payjoin Foundation](https://insider.btcpp.dev/p/the-payjoin-foundation-is-announced)
 
 ### Bitcoin
@@ -37,7 +37,7 @@ meetup: https://www.meetup.com/clubebitcoinsp
 * [Labitbu](https://labitbu.com/)
 * [KEF format](https://delvingbitcoin.org/t/krux-kef-encryption-format/1912)
 * [SimplicityHL](https://github.com/BlockstreamResearch/SimplicityHL)
-* [Nostr-based oracle resolution for prediction markets on Bitcoin, showcased on Mutinynet](https://x.com/dimahledba/status/1946223544234659877)
+* [Nostr-based oracle resolution for prediction markets on Bitcoin, showcased on Mutinynet](https://xcancel.com/dimahledba/status/1946223544234659877)
 * [Confidential Script: Emulate soft forks using stateless TEEs](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918/1)
 * [DEMO: FROST Signing Using bdk-cli](https://hackmd.io/@bc-community/BJ2VtYKUxl)
 
