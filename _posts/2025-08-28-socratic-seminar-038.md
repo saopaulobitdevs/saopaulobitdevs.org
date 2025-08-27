@@ -28,6 +28,7 @@ meetup: https://www.meetup.com/clubebitcoinsp
 ### Bitcoin
 
 * [Bitcoin Backbone](https://mailing-list.bitcoindevs.xyz/bitcoindev/9812cde0-7bbb-41a6-8e3b-8a5d446c1b3cn@googlegroups.com/)
+* [State of bitcoinfuzz](https://brunoerg.xyz/2025/08/21/the-state-of-bitcoinfuzz.html)
 * [policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/33106)
 * [Sharing block templates](https://delvingbitcoin.org/t/sharing-block-templates/1906)
     * [Draft BIP for block template sharing](https://github.com/ajtowns/bips/blob/202508-sendtemplate/bip-ajtowns-sendtemplate.md)
