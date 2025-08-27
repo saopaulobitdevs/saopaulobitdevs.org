@@ -35,6 +35,7 @@ meetup: https://www.meetup.com/clubebitcoinsp
 ### Cool Shit
 
 * [Labitbu](https://labitbu.com/)
+* [Vinteum 3 year Report](https://vinteum.org/wp-content/uploads/2025/08/vinteum-3-years-PT.pdf)
 * [KEF format](https://delvingbitcoin.org/t/krux-kef-encryption-format/1912)
 * [SimplicityHL](https://github.com/BlockstreamResearch/SimplicityHL)
 * [Nostr-based oracle resolution for prediction markets on Bitcoin, showcased on Mutinynet](https://x.com/dimahledba/status/1946223544234659877)
