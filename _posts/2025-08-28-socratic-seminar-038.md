@@ -22,15 +22,13 @@ meetup: https://www.meetup.com/clubebitcoinsp
 * [New Bitcoin Research Network](https://www.dci.mit.edu/posts/new-research-network)
 * [Novo curso do Edil na UnB](https://youtube.com/playlist?list=PLfdR3_dt2rbcthvhgwea-6Cy7kM_Nh2pL&si=wI1ZTA023hKTeohi)
 * [Bitcoin++ Insider](https://insider.btcpp.dev/)
-* [Alpen Labs Glock Paper](https://alpenlabs.io/glock-paper)
-* [Monero 51% Attack - Talvez off topic mas acho que vale a pena falar](https://x.com/BitMEXResearch/status/1955254320305217726)
 * [Rust Utreexo resources](https://x.com/dimahledba/status/1951213485104181669)
 * [Payjoin Foundation](https://insider.btcpp.dev/p/the-payjoin-foundation-is-announced)
 
 ### Bitcoin
 
 * [Bitcoin Backbone](https://mailing-list.bitcoindevs.xyz/bitcoindev/9812cde0-7bbb-41a6-8e3b-8a5d446c1b3cn@googlegroups.com/)
-* [policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin#33106)
+* [policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/33106)
 * [Sharing block templates](https://delvingbitcoin.org/t/sharing-block-templates/1906)
     * [Draft BIP for block template sharing](https://github.com/ajtowns/bips/blob/202508-sendtemplate/bip-ajtowns-sendtemplate.md)
 
