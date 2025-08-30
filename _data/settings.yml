@@ -5,3 +5,7 @@ menu:
 
   - {name: 'Eventos', url: '/events'}
   - {name: 'Meetup', url: 'https://www.meetup.com/saopaulobitdevs', external: true}
+
+social:
+  x:
+    url: "https://x.com/saopaulobitdevs"

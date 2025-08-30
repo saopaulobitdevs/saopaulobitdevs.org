@@ -16,6 +16,10 @@
           <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
         {% endif %}
       {% endfor %}
+      {%- assign x = site.data.settings.social.x.url | default: 'https://x.com/saopaulobitdevs' -%}
+      <a class="nav-social nav-x" href="{{ x }}" target="_blank" rel="noopener" aria-label="SP BitDevs no X">
+        <span class="icon-x" aria-hidden="true"></span>
+      </a>
       <button id="theme-toggle" class="theme-toggle" aria-label="Alternar tema">
         <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <circle cx="12" cy="12" r="5"/>
