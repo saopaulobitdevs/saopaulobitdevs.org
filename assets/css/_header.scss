@@ -96,5 +96,18 @@
         opacity: 1;
       }
     }
+
+    /* === Ícone do X (Twitter) === */
+    .icon-x {
+      display: inline-block;
+      width: 22px;
+      height: 22px;
+      background-color: currentColor;
+      -webkit-mask: url("/public/icons/x.svg") no-repeat center / contain;
+              mask: url("/public/icons/x.svg") no-repeat center / contain;
+      vertical-align: middle;
+      transform: translateY(-1px);
+    }
+    
   }
 }
