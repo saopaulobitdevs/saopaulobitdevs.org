@@ -37,7 +37,6 @@ meetup: https://app.evento.so/e/evt_Gdq8sG7du95X4xq8
 
 ### Cripto(grafia)
 
-* [Yet another BitVM-style bridges breakthrough by Alpen Labs — 45x improvement from BABE and 20x from Argo MAC](https://eprint.iacr.org/2026/476)
 * [A SHA-256 Hash That Is Also a Valid ECDSA Signature](https://github.com/RobinLinus/sha2-ecdsa)
 * [Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions](https://eprint.iacr.org/2026/380)
     * [Blog post — Project Eleven](https://blog.projecteleven.com/posts/lattice-hd-wallets-post-quantum-bip32-hierarchical-deterministic-wallets-from-lattice-assumptions)
