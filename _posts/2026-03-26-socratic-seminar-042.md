@@ -20,8 +20,6 @@ meetup: https://app.evento.so/e/evt_Gdq8sG7du95X4xq8
 
 ### Aquecimento
 
-* [Citrea Foundation](https://xcancel.com/citrea_fdn/status/2028473833372418155)
-* [Bitcoin Education Institute](https://principlesofbtc.substack.com/p/announcing-the-bitcoin-education)
 * [New Vinteum grantee: Johnny Santos](https://xcancel.com/Vinteum_org/status/2033948543283556626)
 * [Vulnerability Report — BRIX](https://xcancel.com/jaoNoctus/status/2035503022780952641)
 
@@ -38,8 +36,8 @@ meetup: https://app.evento.so/e/evt_Gdq8sG7du95X4xq8
 ### Cripto(grafia)
 
 * [A SHA-256 Hash That Is Also a Valid ECDSA Signature](https://github.com/RobinLinus/sha2-ecdsa)
-* [Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions](https://eprint.iacr.org/2026/380)
-    * [Blog post — Project Eleven](https://blog.projecteleven.com/posts/lattice-hd-wallets-post-quantum-bip32-hierarchical-deterministic-wallets-from-lattice-assumptions)
 * [Algorithm Agility for Bitcoin to maintain security in the face of quantum and classic breaks in the signature algorithms](https://groups.google.com/g/bitcoindev/c/7jkVS1K9WLo)
 * [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A)
+* [Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions](https://eprint.iacr.org/2026/380)
+    * [Blog post — Project Eleven](https://blog.projecteleven.com/posts/lattice-hd-wallets-post-quantum-bip32-hierarchical-deterministic-wallets-from-lattice-assumptions)
 
