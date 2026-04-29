@@ -34,6 +34,7 @@ meetup: https://app.evento.so/e/evt_1PbXfE8CXsAFeWrD
 * [Slow Blocks / Consensus Cleanup Demo](https://delvingbitcoin.org/t/consensus-cleanup-demo-of-slow-blocks-on-signet/2367) ([Block Propagation and Validation Duration during slow-to-validate blocks on Signet](https://bnoc.xyz/t/block-propagation-and-validation-duration-during-slow-to-validate-blocks-on-signet/117))
 * [BIP 393: Output Script Descriptor Annotations](https://github.com/bitcoin/bips/blob/master/bip-0393.mediawiki)
 * Great Script Restoration: [BIP 440: Varops Budget for Script Runtime Constraint](https://github.com/bitcoin/bips/blob/master/bip-0440.mediawiki) & [BIP 441: Restoration of Disabled Script (Tapleaf 0xC2)](https://github.com/bitcoin/bips/blob/master/bip-0441.mediawiki)
+* [Many Connections to Bitproject nodes](https://bnoc.xyz/t/many-connections-to-bitproject-io-nodes/40)
 
 
 ### Privacy
