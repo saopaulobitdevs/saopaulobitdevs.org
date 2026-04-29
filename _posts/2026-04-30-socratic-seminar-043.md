@@ -21,6 +21,7 @@ meetup: https://app.evento.so/e/evt_1PbXfE8CXsAFeWrD
 ### Aquecimento
 
 * [Floresta release v0.9.0](https://www.getfloresta.org/blog/release-v0.9.0)
+  - [New release v0.9.1 patch that fix two potential DoS vulnerabilities](https://github.com/getfloresta/Floresta/releases/tag/v0.9.1)
 * [Mandacaru: A Validator Bitcoin node in your phone](https://github.com/jvsena42/mandacaru)
 * [Proto Fleet Open Sourced](https://github.com/block/proto-fleet)
 * [Block Proof of Reserves](https://x.com/owenbjennings/status/2048795342372733007)
