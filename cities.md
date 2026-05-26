@@ -16,6 +16,7 @@ permalink: /cities/
             <li><a href="https://curitibabitdevs.org/" target="_blank" rel="noopener nofollow">Curitiba</a></li>
             <li><a href="https://floripabitdevs.org/" target="_blank" rel="noopener nofollow">Florianópolis</a></li>
             <li><a href="https://poabitdevs.org/" target="_blank" rel="noopener nofollow">Porto Alegre</a></li>
+            <li><a href="https://udibitdevs.org/" target="_blank" rel="noopener nofollow">Uberlândia</a></li>
         </ul>
     </div>
 
