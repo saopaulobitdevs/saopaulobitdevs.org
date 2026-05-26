@@ -5,7 +5,7 @@ menu:
 
   - {name: 'Eventos', url: '/events'}
   - {name: 'Meetup', url: 'https://evento.so/brbitdevs', external: true}
-  - {name: 'Outras Cidades', url: '/cities'}
+  - {name: 'Cidades', url: '/cities'}
 
 social:
   x:
