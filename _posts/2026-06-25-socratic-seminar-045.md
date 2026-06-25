@@ -24,6 +24,7 @@ meetup: https://app.evento.so/e/evt_vbHJhkCNNzx4zDTu
 * [Tradução PT-BR para o site learn me a bitcoin](https://meaprendeumbitcoin.com.br/)
 * [Public Pool added Stratum V2 Support](https://x.com/StratumV2/status/2062959948720447919)
 * [Craig Raw Apple Developer Account Flagged For Termination](https://xcancel.com/craigraw/status/2069124643223445854#m)
+* [Viena Lightning Spec Summit](https://github.com/lightning/bolts/issues/1329)
 
 ### Bitcoin
 
