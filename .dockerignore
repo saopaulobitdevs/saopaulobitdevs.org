@@ -1,0 +1,12 @@
+.git
+.github
+.idea
+_site
+_cache
+_offline
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+.bundle
+vendor
+.DS_Store
