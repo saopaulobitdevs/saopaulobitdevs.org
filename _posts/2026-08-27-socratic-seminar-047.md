@@ -37,13 +37,13 @@ meetup: https://app.evento.so/e/evt_SWCc23c71YusM5oA
 * [CLN Security Update](https://x.com/Core_LN/status/2088046083280879974)
 * [Silent Payments Harvest-Now-Decrypt-Later Attack](https://conduition.io/cryptography/hndl-silent-payments/)
 
-### Bitcoin supostamente sob ataque
+### BIP-110
 
 * [Luke usando testnet4 pra escolher "aleatóriamente" o novo algoritmo de PoW](https://x.com/mononautical/status/2087181505399529617)
 * [O dia do fim do Bitcoin](https://x.com/jaoNoctus/status/2086221233645867308)
 
 
-### "Spamcoin" continua, BDash "em manutenção"
+### Bitcoin
 
 * [Fork observer](https://fork.observer/?network=mainnet)
 * [Otimização no txindex](https://github.com/bitcoin/bitcoin/pull/35531)
