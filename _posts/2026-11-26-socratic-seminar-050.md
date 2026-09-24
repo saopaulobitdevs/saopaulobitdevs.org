@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Seminário Socrático 049"
+title: "Seminário Socrático 050"
 ---
 
 ## Avisos
