@@ -17,13 +17,11 @@ title: "Seminário Socrático 049"
 
 ## Cronograma
 
-Sugira um tópico abrindo uma issue no nosso repositório: https://github.com/saopaulobitdevs/saopaulobitdevs.org/issues
-
 ### Vulns is the new Aquecimento ☠️
 
 * [Ledger: supply chain attack com cartões LTE e-SIM que enviam a seed para o atacante](https://support.ledger.com/article/4404382029329-zd)
-* [Thread do MagicalTux (1)](https://x.com/MagicalTux/status/2108556423445835827)
-* [Thread do MagicalTux (2)](https://x.com/MagicalTux/status/2108576506704548179)
+  * [Thread do MagicalTux (1)](https://x.com/MagicalTux/status/2108556423445835827)
+  * [Thread do MagicalTux (2)](https://x.com/MagicalTux/status/2108576506704548179)
 
 ### TabConf 8
 
@@ -43,5 +41,7 @@ Sugira um tópico abrindo uma issue no nosso repositório: https://github.com/sa
 
 ### Releases
 
+* [Bitcoin Core 32.1](https://bitcoincore.org/en/releases/32.1/)
+  * [Thread do bitschmidty](https://x.com/bitschmidty/status/2115542907767668850)
 * [Krux release 26.09](https://github.com/selfcustody/krux/releases/tag/v26.09.0)
 * [krux-installer release v0.0.24](https://github.com/selfcustody/krux-installer/releases/tag/v0.0.24)
