@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Especial - Futuro da Criptografia Pós-Quântica no Bitcoin - Semana Blockchain Inteli"
+title: "Especial - Bitcoin+PQC - Semana Blockchain Inteli"
 ---
 
 ## Avisos
