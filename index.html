@@ -8,12 +8,44 @@ title: Home
   BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados.
   </p>
 
+  {% assign build_ts = site.time | date: "%s" | plus: 0 %}
+  {% assign cutoff_ts = build_ts | minus: 86400 %}
+  {% assign upcoming_count = 0 %}
+  {% for post in site.posts %}
+    {% if post.type == "socratic" or post.type == "whitepaper" %}
+      {% assign post_ts = post.date | date: "%s" | plus: 0 %}
+      {% if post_ts > cutoff_ts %}
+        {% assign upcoming_count = upcoming_count | plus: 1 %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% if upcoming_count > 0 %}
   <div class="Home-posts">
-    <h2 class="Home-posts-title">Eventos recentes e próximos</h2>
+    <h2 class="Home-posts-title">Próximos eventos</h2>
+    {% for post in site.posts reversed %}
+      {% if post.type == "socratic" or post.type == "whitepaper" %}
+        {% assign post_ts = post.date | date: "%s" | plus: 0 %}
+        {% if post_ts > cutoff_ts %}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="Home-posts">
+    <h2 class="Home-posts-title">Eventos recentes</h2>
     {% assign event_posts = 7 %}
     {% assign counter = 0 %}
     {% for post in site.posts %}
-      {% if post.type == "socratic" or post.type == "whitepaper"%}
+      {% if post.type == "socratic" or post.type == "whitepaper" %}
+        {% assign post_ts = post.date | date: "%s" | plus: 0 %}
+        {% if post_ts <= cutoff_ts %}
         <div class="Home-posts-post">
           <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
           <span class="Home-posts-post-arrow">&raquo;</span>
@@ -23,8 +55,9 @@ title: Home
         {% if counter == event_posts %}
           {% break %} {% comment %}exit the for loop{% endcomment %}
         {% endif %}
+        {% endif %}
       {% endif %}
     {% endfor %}
     <p><a href="/events.html">Ver todos os eventos</a></p>
   </div>
- 
+</div>
