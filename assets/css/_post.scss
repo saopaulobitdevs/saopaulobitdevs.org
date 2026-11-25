@@ -1,6 +1,9 @@
 .Post {
   word-wrap: break-word;
 
+  // The CSS reset strips italics from <em>; restore it for post content.
+  em {font-style: italic}
+
   &-title {
     margin: 0 0 0.25rem 0;
     font-size: 1.8rem;
