@@ -1,6 +1,6 @@
 # Preview the site without installing Ruby on the host.
-# Ruby 3.2 matches the GitHub Pages build (.github/workflows/jekyll.yml).
-FROM ruby:3.2-slim
+# Ruby 3.4 matches the GitHub Pages build (.github/workflows/jekyll.yml).
+FROM ruby:3.4-slim
 
 # eventmachine, http_parser.rb and json ship no precompiled linux gems,
 # so a C toolchain is needed to install the bundle.
